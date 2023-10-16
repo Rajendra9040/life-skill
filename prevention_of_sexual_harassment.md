@@ -7,7 +7,7 @@
 5.Retaliation for refusing sexual advances, such as threatening, demoting, or firing someone who refuses to go on a date or have sex.
 <br><br>
 
-##
+## What would you do in case you face or witness any incident or repeated incidents of such behaviour?
 <br>
 1.Stop the behavior. If you feel safe to do so, you can try to stop the behavior by telling the harasser to stop or by walking away. <br>
 2.Report the incident. Tell a trusted person, such as a supervisor, teacher, parent, or friend, what happened.<br>
