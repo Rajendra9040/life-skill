@@ -18,15 +18,6 @@ LinkedHashSet: LinkedHashSet is similar to HashSet, but it maintains the order o
 TreeSet: TreeSet is another implementation of the Set interface. It stores elements in a sorted order (based on their natural order or a specified comparator).
 <br>
 <br>
-HashMap: HashMap implements the Map interface and is not a direct implementation of the Collection interface. However, it is often used in conjunction with collections for key-value mappings. It uses hash tables to store key-value pairs.
-<br>
-<br>
-LinkedHashMap: Similar to HashMap, LinkedHashMap maintains the order of elements based on their insertion order.
-<br>
-<br>
-TreeMap: TreeMap is an implementation of the Map interface that stores key-value pairs in a sorted order based on the keys.
-<br>
-<br>
 Vector: Vector is an older class that predates the Java Collections Framework but still implements the List interface. It is synchronized and thread-safe.
 <br>
 <br>
